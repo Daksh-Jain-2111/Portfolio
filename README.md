@@ -32,6 +32,7 @@ SMDR Government Polytechnic, Dhule
 
 - Python
 - JavaScript
+- Java
 - C
 - C++
 - SQL
